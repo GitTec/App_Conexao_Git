@@ -54,7 +54,6 @@ export default function Home() {
                     showsVerticalScrollIndicator={false}
                     contentContainerStyle={{ paddingBottom: 20, paddingTop: 5 }}
                 />
-
                 <StatusBar style="auto" />
             </View>
         </>
